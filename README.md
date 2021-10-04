@@ -1,6 +1,7 @@
 # bisnis_proses_mobile
 
 create with java, using manual xml design(material design library), rest api
+take data from api and insert it on spinner and recycleview
 
 u can see demo here https://youtu.be/OYyecqI9VL0
 
